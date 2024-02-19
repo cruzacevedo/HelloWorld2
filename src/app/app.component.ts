@@ -11,6 +11,6 @@ import { ContadorComponent } from './contador/contador.component';
 })
 export class AppComponent {
   title = '5A';
-  name = 'Karina Aguirre'
-  number = '20961'
+  name = 'Cruz Acevedo Ovalle'
+  number = '20960'
 }
