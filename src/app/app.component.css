@@ -1,0 +1,33 @@
+.container {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: #ff4800;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin: 0 10px;
+}
+
+.container button:hover {
+    background-color: #f1a13f;
+}
+
+.container div {
+    font-size: 15px;
+    margin-top: 10px;
+    
+}
+
+.container img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
